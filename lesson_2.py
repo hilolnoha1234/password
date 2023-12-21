@@ -8,3 +8,4 @@ for i in range(len_password):
     password += choice(symbol)
 
 print(password)
+#you are very bad at programming i dont like this.
